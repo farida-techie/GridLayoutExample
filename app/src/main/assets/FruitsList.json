@@ -1,0 +1,89 @@
+[
+  {
+    "id": 1,
+    "name": "Apples",
+    "desc": "About one medium apple (186 grams): 100 calories and19.23 grams sugar"
+
+  },
+  {
+    "id": 2,
+    "name": "Avocado",
+    "desc": "About three-fifths of one small avocado (60 grams): 100 calories and 0 grams sugar"
+  },
+  {
+    "id": 3,
+    "name": "Banana",
+    "desc": "About four-fifths of one medium banana (114.55 grams): 100 calories and 17.27 grams sugar"
+  },
+  {
+    "id": 4,
+    "name": "Blackberry",
+    "desc": "About 1 ½ cups (232.3 grams): 100 calories and 11.3 grams sugar"
+  },
+  {
+    "id": 5,
+    "name": "Blueberry",
+    "desc": "About 1 ⅕ cups (174 grams): 100 calories and 17.64 grams sugar"
+  },
+  {
+    "id": 6,
+    "name": "Cantaloupe",
+    "desc": "About half a medium melon (268 grams): 100 calories and 22 grams sugar"
+  },
+  {
+    "id": 7,
+    "name": "Cherry",
+    "desc": "1 cup or about 21 cherries (140 grams): 100 calories and 6 grams sugar"
+  },
+  {
+    "id": 8,
+    "name": "Grape",
+    "desc": "About 24 grapes or ¾ cup (140 grams): 100 calories and 22.2 grams sugar"
+  },
+  {
+    "id": 9,
+    "name": "Kiwi",
+    "desc": "About three small-to-medium kiwis (164.4 grams): 100 calories and 14.44 grams sugar"
+  },
+  {
+    "id": 10,
+    "name": "Orange",
+    "desc": "About 1 ¼ oranges (192.5 grams): 100 calories and 17.5 grams sugar"
+  },
+  {
+    "id": 11,
+    "name": "Peach",
+    "desc": "1 ¾ peaches (245 grams): 100 calories and 26.67 grams sugar"
+
+  },
+  {
+    "id": 12,
+    "name": "Pear",
+    "desc": "One medium pear (166 grams): 100 calories and 16 grams sugar"
+  },
+  {
+    "id": 13,
+    "name": "Pineapple",
+    "desc": "1 ⅓ cups of chunks (224 grams): 100 calories and 20 grams sugar"
+  },
+  {
+    "id": 14,
+    "name": "Plum",
+    "desc": "About two small plums (215.7 grams): 100 calories and 22.8 grams sugar"
+  },
+  {
+    "id": 15,
+    "name": "Raspberry",
+    "desc": "About 1 ½ cups (190 grams): 100 calories and 7.8 grams sugar"
+  },
+  {
+    "id": 16,
+    "name": "Strawberry",
+    "desc": "About 2 cups or 16 medium berries (294 grams): 100 calories and 14.3 grams sugar"
+  },
+  {
+    "id": 17,
+    "name": "Watermelon",
+    "desc": "2 ½ cups diced (350 grams): 100 calories and 25 grams sugar"
+  }
+]
