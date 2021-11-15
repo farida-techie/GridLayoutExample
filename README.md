@@ -6,5 +6,5 @@ This is Jetpack Compose Grid Layout Example
 
 
 
-Watch this tutorial ON Youtube Click here👇👇👇
+Watch this tutorial ON Youtube Click her👉👉
 https://youtu.be/GcY6tkewjh8
